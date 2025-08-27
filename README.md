@@ -14,6 +14,7 @@
 - [Certified Jr. Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DHU7WJSZ9C.pdf)
 
 <h2> 🤳 Connect with me:</h2>
+
 [<img align="left" alt="ArjunRajasekhar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ArjunRajasekhar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
